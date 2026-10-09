@@ -1,5 +1,12 @@
-console.log("My full stack journey");
-console.log(5 + 10);
-console.log(20 - 8);
-console.log(4 * 3);
-console.log("Day 1 completed!");
+console.log("My Developer Profile");
+console.log("------------------");
+
+console.log("I am learning JavaScript.");
+console.log("my goal is become a software developer.");
+
+console.log("I can calculate:");
+console.log(10 + 20);
+console.log(50 - 15);
+console.log(5 * 6);
+
+console.log("DAy 1 revision completed!");
